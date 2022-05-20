@@ -13,7 +13,16 @@
 ```streamlit run yega.py```
 
 ---
+### Admin User Name and Password
+---
 
+
+`User_Name    - yegappan`
+
+
+`Password - yega@342`
+
+---
 ### Requirements and Its Uses
 
 * `Python    - (Main program)`
